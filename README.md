@@ -17,9 +17,9 @@ If you're new to Git and GitHub, start with the basics:
 ## Essential Commands
 #### Explore the essential Git commands and workflows:
 
-1- git init: Initialize a new Git repository.<br>
-2- git clone: Clone an existing repository from GitHub.<br>
-3- git add: Stage changes for commit.<br>
+1- git init: Initialize a new Git repository.  
+2- git clone: Clone an existing repository from GitHub.  
+3- git add: Stage changes for commit.  
 4- git commit: Commit changes with descriptive messages.<br>
 5- git push: Push your changes to a remote repository.<br>
 6- git pull: Fetch changes from a remote repository.<br>
