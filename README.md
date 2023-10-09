@@ -2,7 +2,7 @@
 
 ## RoadMap to learn Git-Github <br>
 
-### Welcome to the Git and GitHub Roadmap! This repository is designed to help you navigate your journey through the world of Git and GitHub, whether you're a beginner or looking to deepen your understanding. Here, you will find a structured path to mastering these essential tools for version control and collaboration in software development. <br>
+#### Welcome to the Git and GitHub Roadmap! This repository is designed to help you navigate your journey through the world of Git and GitHub, whether you're a beginner or looking to deepen your understanding. Here, you will find a structured path to mastering these essential tools for version control and collaboration in software development. 
 
 ## Getting Started <br>
 
@@ -53,5 +53,6 @@ If you're new to Git and GitHub, start with the basics:
 
 |                       description                       | link |
 | :------------------------------------------------------: | ---- |
-| Learn Git and Github                                     | [![Watch the video]([https://img.youtube.com/vi/vDDjtwQDw2k/maxresdefault.jpg)](https://youtu.be/vDDjtwQDw2k](https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)https://www.youtube.com/watch?v=ACOiGZoqC8w&list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)     |
+| Learn Git & GitHub  | [![Watch the video]([https://img.youtube.com/vi/vDDjtwQDw2k/maxresdefault.jpg](https://i.ytimg.com/vi/ACOiGZoqC8w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_ITslvdj4Euwfb1EdySDWoLIhWw))]([https://youtu.be/vDDjtwQDw2k](https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)https://www.youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)     |
+
 
